@@ -1,0 +1,32 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Weather App Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seneco/node-course-2-web-server.git"
+  },
+  "keywords": [
+    "web",
+    "app",
+    "node",
+    "course",
+    "2",
+    "server"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seneco/node-course-2-web-server/issues"
+  },
+  "homepage": "https://github.com/seneco/node-course-2-web-server#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "hbs": "^4.0.1"
+  }
+}
